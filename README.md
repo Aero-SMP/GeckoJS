@@ -5,7 +5,7 @@ GeckoJS is a powerful bridge between **GeckoLib** and **KubeJS**, allowing you t
 
 ---
 
-## Installation & Requirements
+## 🛠 Installation & Requirements
 
 To use GeckoJS, you need the following mods installed:
 - **NeoForge** (1.21.1)
@@ -14,7 +14,7 @@ To use GeckoJS, you need the following mods installed:
 
 ---
 
-## Asset Setup
+## 📂 Asset Setup
 
 GeckoJS relies on standard GeckoLib `.geo.json` models and `.animation.json` animations. By default, it looks for these files in your KubeJS assets folder.
 
@@ -29,7 +29,7 @@ When using `.defaultGeoModel()`, the following paths are assumed (replace `item_
 
 ---
 
-## Creating Animatable Objects
+## 🚀 Creating Animatable Objects
 
 Register your objects in a **Startup Script** (`kubejs/startup_scripts/`).
 
@@ -58,7 +58,7 @@ StartupEvents.registry('item', event => {
 
 ---
 
-## Animatable Armor
+## 🛡 Animatable Armor
 
 Armor registration is similar to items but includes helpers for bone visibility, allowing you to hide specific parts of the player model or your custom model dynamically.
 
@@ -81,7 +81,7 @@ event.create('fancy_helmet', 'anim_helmet')
 
 ---
 
-## Animatable Blocks
+## 📦 Animatable Blocks
 
 Blocks registered with the `animatable` type will automatically have an associated Block Entity that handles GeckoLib animations.
 
@@ -99,7 +99,7 @@ StartupEvents.registry('block', event => {
 
 ---
 
-## Advanced Animation API
+## 🧪 Advanced Animation API
 
 ### Animation Controllers
 You can add multiple controllers to a single object. Each controller manages its own animation state.
@@ -125,7 +125,7 @@ The following GeckoLib classes are exposed to JavaScript:
 
 ---
 
-## Building the Project
+## 🏗 Building the Project
 
 If you are a developer looking to build GeckoJS from source:
 
@@ -139,10 +139,10 @@ If you are a developer looking to build GeckoJS from source:
 
 ---
 
-## Credits
+## 📜 Credits
 
 - **Original Project**: Created by **mesdag** (Original GeckoJS).
-- **Remake/Port**: **MrClockwork**.
+- **Remake/Port**: **MrClockwork** (Clockwork Team).
 - **Dependencies**:
     - [GeckoLib](https://github.com/bernie-g/geckolib) by Bernie.
     - [KubeJS](https://kubejs.com/) by LatvianModder.
