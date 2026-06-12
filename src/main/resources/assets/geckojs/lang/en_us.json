@@ -1,0 +1,13 @@
+{
+  "itemGroup.geckojs": "Example Mod Tab",
+  "block.geckojs.example_block": "Example Block",
+  "item.geckojs.example_item": "Example Item",
+
+  "geckojs.configuration.title": "GeckoJS Configs",
+  "geckojs.configuration.section.geckojs.common.toml": "GeckoJS Configs",
+  "geckojs.configuration.section.geckojs.common.toml.title": "GeckoJS Configs",
+  "geckojs.configuration.items": "Item List",
+  "geckojs.configuration.logDirtBlock": "Log Dirt Block",
+  "geckojs.configuration.magicNumberIntroduction": "Magic Number Text",
+  "geckojs.configuration.magicNumber": "Magic Number"
+}
