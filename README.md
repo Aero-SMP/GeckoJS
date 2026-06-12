@@ -58,7 +58,7 @@ StartupEvents.registry('item', event => {
 
 ---
 
-## 🛡 Animatable Armor
+## Animatable Armor
 
 Armor registration is similar to items but includes helpers for bone visibility, allowing you to hide specific parts of the player model or your custom model dynamically.
 
@@ -125,7 +125,7 @@ The following GeckoLib classes are exposed to JavaScript:
 
 ---
 
-## 🏗 Building the Project
+## Building the Project
 
 If you are a developer looking to build GeckoJS from source:
 
