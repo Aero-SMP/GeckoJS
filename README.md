@@ -142,7 +142,7 @@ If you are a developer looking to build GeckoJS from source:
 ## 📜 Credits
 
 - **Original Project**: Created by **mesdag** (Original GeckoJS).
-- **Remake/Port**: **MrClockwork** (Clockwork Team).
+- **Remake/Port**: **MrClockwork**.
 - **Dependencies**:
     - [GeckoLib](https://github.com/bernie-g/geckolib) by Bernie.
     - [KubeJS](https://kubejs.com/) by LatvianModder.
